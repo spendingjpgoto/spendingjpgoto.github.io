@@ -19,7 +19,7 @@ OpenSpending.Styles.Cofog = {
 
   /* goto cofog */
   // 議会費
-  '101'  : { icon: 'icons/legislative.svg', color: '#00B034', bcolor: '#935B3B' },
+  '101'  : { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
   '10100': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
 
   // 総務費
