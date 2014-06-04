@@ -125,10 +125,13 @@
 	/*
 	border-top: 1px dashed #ccc;
 	*/
-	padding-top: 5px;
+	padding-top: 4px;
 	margin: 3px 0 3px;
 }
 
+.ui-tooltip-content .desc {
+	padding-bottom: 4px;
+}
 
 /*
 * qTip2 - Pretty powerful tooltips
