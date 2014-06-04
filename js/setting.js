@@ -75,3 +75,7 @@ OpenSpending.Styles.Cofog = {
   '11400': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#D33673' }
   
 };
+
+OpenSpending.Descriptions = {
+  '民生費': '社会福祉費、児童福祉費、生活保護費、災害救助費を含む'
+};
