@@ -122,7 +122,9 @@
 	font-size: 20px;
 	font-weight: normal;
 	font-family: Palatino, Georgia;
+	/*
 	border-top: 1px dashed #ccc;
+	*/
 	padding-top: 8px;
 	margin: 5px 0 3px;
 }
