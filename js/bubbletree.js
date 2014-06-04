@@ -1470,8 +1470,8 @@ BubbleTree.Bubbles.Plain = function(node, bubblechart, origin, radius, angle, co
     me.container.append(me.label);
 
     if (me.node.children.length > 0) {
-      $(me.circle.node).css({ cursor: 'pointer'});
-      $(me.label).css({ cursor: 'pointer'});
+      $(me.circle.node).css({ cursor: 'default'});
+      $(me.label).css({ cursor: 'default'});
     }
 
     // additional label
@@ -1503,7 +1503,7 @@ BubbleTree.Bubbles.Plain = function(node, bubblechart, origin, radius, angle, co
     if (Raphael.svg) {
       me.overlay.node.setAttribute('class', me.node.id);
     }
-    $(me.overlay.node).css({ cursor: 'pointer'});
+    $(me.overlay.node).css({ cursor: 'default'});
     $(me.overlay.node).click(me.onclick.bind(me));
 
     $(me.label).click(me.onclick.bind(me));
@@ -1714,8 +1714,8 @@ BubbleTree.Bubbles.Donut = function(node, bubblechart, origin, radius, angle, co
     me.bc.$container.append(me.label);
 
     if (me.node.children.length > 1) {
-      $(me.circle.node).css({ cursor: 'pointer'});
-      $(me.label).css({ cursor: 'pointer'});
+      $(me.circle.node).css({ cursor: 'default'});
+      $(me.label).css({ cursor: 'default'});
     }
 
     // additional label
@@ -1892,8 +1892,8 @@ BubbleTree.Bubbles.Icon = function(node, bubblechart, origin, radius, angle, col
     me.bc.$container.append(me.label2);
 
     if (me.node.children.length > 0) {
-      $(me.circle.node).css({ cursor: 'pointer'});
-      $(me.label).css({ cursor: 'pointer'});
+      $(me.circle.node).css({ cursor: 'default'});
+      $(me.label).css({ cursor: 'default'});
     }
 
     /*var
@@ -1972,7 +1972,7 @@ BubbleTree.Bubbles.Icon = function(node, bubblechart, origin, radius, angle, col
     if (Raphael.svg) {
       me.overlay.node.setAttribute('class', me.node.id);
     }
-    $(me.overlay.node).css({ cursor: 'pointer'});
+    $(me.overlay.node).css({ cursor: 'default'});
 
     $(me.overlay.node).click(me.onclick.bind(me));
     $(me.label).click(me.onclick.bind(me));
