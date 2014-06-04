@@ -130,7 +130,7 @@
 }
 
 .db-area-col {
-  cursor: pointer;
+  cursor: default;
   margin: 0;
   text-align: center;
 }
