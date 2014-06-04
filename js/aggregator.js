@@ -149,8 +149,8 @@ var OpenSpending = OpenSpending || {};
           nodes = {},
           root = {
             id: 'root',
-            //label: 'Total',
-            label: '合計',
+            label: 'Total',
+            //label: '合計',
             color: '#555',
             currency: data.summary.currency[self.config.measure],
             children: [],
