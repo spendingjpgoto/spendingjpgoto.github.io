@@ -50,7 +50,7 @@ OpenSpending.DailyBread = function (elem) {
       slide: function () { self.sliderUpdated.apply(self, arguments) }
     })
 
-    this.$e.delegate('.db-area-col', 'click', this.handleClick)
+    //this.$e.delegate('.db-area-col', 'click', this.handleClick)
   }
 
   this.sliderUpdated = function (evt, sld) {
