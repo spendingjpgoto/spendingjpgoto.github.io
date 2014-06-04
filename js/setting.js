@@ -23,8 +23,8 @@ OpenSpending.Styles.Cofog = {
   '10100': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
 
   // 総務費
-  '102': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#0AB971' },
-  '10200': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#0AB971' },
+  '102': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+  '10200': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
   '0201': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
   '0202': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#0AB971' },
   '0203': { icon: 'icons/books.svg', color: '#C75746', bcolor: '#0AB971' },
@@ -33,8 +33,8 @@ OpenSpending.Styles.Cofog = {
   '0206': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#0AB971' },
 
   // 民生費
-  '103': { icon: 'icons/family2.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '10300': { icon: 'icons/family2.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '103': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '10300': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#4E6D00' },
   '0301': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#4E6D00' },
   '0302': { icon: 'icons/old-age.svg', color: '#C75746', bcolor: '#4E6D00' },
   '0303': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#4E6D00' },
@@ -84,8 +84,8 @@ OpenSpending.Styles.Cofog = {
   '10900': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#D33673' },
 
   // 教育費
-  '110': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#790586' },
-  '11000': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#790586' },
+  '110': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
+  '11000': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
   '1001': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' },
   '1002': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' },
   '1003': { icon: 'icons/secondary-lower.svg', color: '#C75746', bcolor: '#790586' },
@@ -104,12 +104,12 @@ OpenSpending.Styles.Cofog = {
   '1103': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
 
   // 公債費
-  '112': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#0AB971' },
-  '11200': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#0AB971' },
+  '112': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#0AB971' },
+  '11200': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#0AB971' },
 
   // 諸支出費
-  '113': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '11300': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '113': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '11300': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#4E6D00' },
   '1301': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#4E6D00' },
   '1302': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#4E6D00' },
   '1303': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#4E6D00' },
