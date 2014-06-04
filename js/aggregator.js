@@ -9,7 +9,6 @@ var OpenSpending = OpenSpending || {};
     cuts: ['year:2008'],
     breakdown: 'region',
     rootNodeLabel: 'Total',
-    //rootNodeLabel: '合計',
     localApiCache: 'aggregate.json',
     measure: 'amount',
     processEntry: function(e) { return e; },
@@ -150,7 +149,6 @@ var OpenSpending = OpenSpending || {};
           root = {
             id: 'root',
             label: 'Total',
-            //label: '合計',
             color: '#555',
             currency: data.summary.currency[self.config.measure],
             children: [],
