@@ -1,8 +1,6 @@
 # 五島市版 税金はどこへ行った？
 
-wheredoesmymoney.orgの五島市版です．
-
-http://goto.spending.jp で稼働しているサイトのソースコードです。  
+Where Does My Money Go? 五島市版 http://goto.spending.jp で稼働しているサイトのソースコードです。  
 
 
 
